@@ -12,6 +12,9 @@ It will run on anything from Windows 11 to Windows 98SE (I haven't tested either
 
 ## Missing (for now)
 - Word wrap
+- Shell extension
+- Command-line file argument
+- TXT File association
 
 ## Keep in mind
 - This works only on systems with the VB6 runtime installed. Any OS 98SE+ should have it pre-installed.
